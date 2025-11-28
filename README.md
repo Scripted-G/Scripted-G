@@ -71,16 +71,6 @@ Multi-OS virtualized lab using KVM/QEMU:
 
 ---
 
-## 💼 Professional Background
-
-**Firefighter/Paramedic | Key Biscayne Fire Rescue** (2007-2014)
-- Rapid assessment and problem-solving in high-pressure situations
-- Clear communication with diverse people during incidents
-- Strict adherence to protocols and procedures
-- Team collaboration in critical situations
-
----
-
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/gabriel-orta](https://linkedin.com/in/gabriel-orta)
