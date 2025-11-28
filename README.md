@@ -1,126 +1,91 @@
 # 👋 Hi, I'm Gabriel Orta
+**IT Support Professional | Google IT Support Certified | Linux Enthusiast**
 
-**Cybersecurity Professional | SOC Analyst | Penetration Testing Enthusiast**
-
-Transitioning from emergency services to cybersecurity with hands-on experience in vulnerability assessment, penetration testing, and security operations. Currently preparing for CompTIA Security+ certification.
+Transitioning into IT with hands-on experience in troubleshooting, system administration, and end-user support. Background in emergency services brings strong problem-solving and communication skills. Currently preparing for CompTIA Security+ certification.
 
 ---
 
 ## 🎯 About Me
 
-Entry-level cybersecurity professional with a unique background in emergency response and incident management. I bring crisis decision-making skills and attention to detail from my firefighter/paramedic experience to the world of cybersecurity.
+IT support professional with a unique background in emergency response. I bring crisis decision-making skills, clear communication, and systematic troubleshooting from my firefighter/paramedic experience to technical support.
 
-**Currently seeking:** SOC Analyst I / Junior Security Analyst positions in Maryland/DC area
+**Currently seeking:** Help Desk / IT Support / Desktop Support positions in Maryland/DC area
 
 ---
 
 ## 🔒 Certifications
 
+- 💻 **Google IT Support Professional Certificate** (2025)
 - 🏆 **Google Cybersecurity Professional Certificate** (2024)
-- 💻 **Google IT Support Professional Certificate** (2022)
 - 🐧 **Linux Essentials Certification (LPI 010-160)** (2025)
-- 📚 **CompTIA Security+** (In Progress - Exam scheduled for early 2026)
+- 📚 **CompTIA Security+** (In Progress - January 2026)
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Security Tools & Platforms:**
-- Kali Linux
-- Metasploit Framework
-- Nmap
-- Wireshark
-- Burp Suite
-- TryHackMe (Active learner)
-
 **Operating Systems:**
-- Linux (Pop!_OS daily driver, Arch/Sway custom setup)
-- Windows
+- Linux (Fedora daily driver, Arch/Sway custom setup)
+- Windows 10/11
+- Windows Server 2022 (learning)
 - macOS
 
+**IT Support & Administration:**
+- Hardware troubleshooting and PC building
+- End-user support and system migrations
+- Network troubleshooting (TCP/IP, DNS, DHCP, Wi-Fi)
+- Virtualization (KVM/QEMU, VirtualBox, VMware)
+
 **Programming & Scripting:**
-- Python (Security automation, scripting)
-- Bash (Shell scripting, system administration)
-
-**Core Competencies:**
-- Vulnerability Assessment
-- Penetration Testing
-- Network Security & Analysis
-- Incident Response
-- Security Operations
-- Threat Detection
-- TCP/IP & DNS
-
-**Development Tools:**
+- Python
+- Bash scripting
 - Git & GitHub
-- Virtualization (KVM/QEMU)
+
+**Security Tools (Learning):**
+- Kali Linux
+- Nmap, Wireshark
+- TryHackMe (Active learner)
 
 ---
 
-## 🧪 Hands-On Experience
+## 🧪 Projects
 
-### Cybersecurity Homelab
-I maintain an active homelab environment for practicing security assessments and penetration testing:
+### Home Lab Environment
+Multi-OS virtualized lab using KVM/QEMU:
+- Windows Server 2022, Windows 11 Pro, and Linux VMs
+- Network isolation and virtual networking configuration
+- Practicing system administration and expanding skills
 
-- **Environment:** Kali Linux + Metasploitable 2 VMs with isolated network configuration
-- **Projects:**
-  - Conducted comprehensive network scans and vulnerability assessments
-  - Successfully exploited vsftpd backdoor vulnerability using Metasploit
-  - Performed security assessments on home network infrastructure
-  - Documented penetration testing methodologies and findings
+### End-User IT Support
+- Migrated user from Windows to Linux Mint, provide ongoing maintenance
+- Troubleshoot hardware, software, printer, and network issues for family/friends
+- Build and repair PCs including custom builds
 
-### Active Learning
-- Completing security challenges on TryHackMe
-- Following structured learning paths in offensive security and defensive security
-- Studying for CompTIA Security+ through Hackers Arise courses + Professor Messer videos
+### Linux Dotfiles
+- Custom Arch Linux setup with Sway window manager
+- Configuration files for reproducible system setup
+
+### Python Number Guessing Game
+- Built interactive game deployed on Streamlit.io
+- Demonstrates Python fundamentals and web app deployment
 
 ---
 
 ## 💼 Professional Background
 
 **Firefighter/Paramedic | Key Biscayne Fire Rescue** (2007-2014)
-- Rapid threat assessment and incident management in high-pressure situations
-- Advanced training in incident command and emergency response protocols
-- Multi-agency coordination during critical incidents
-
-This background provides me with:
-- Strong decision-making under pressure
-- Systematic approach to problem-solving
-- Clear communication during incidents
+- Rapid assessment and problem-solving in high-pressure situations
+- Clear communication with diverse people during incidents
+- Strict adherence to protocols and procedures
 - Team collaboration in critical situations
-
----
-
-## 🌱 Currently Learning
-
-- CompTIA Security+ certification content (threat management, cryptography, identity management, security architecture)
-- Advanced penetration testing techniques
-- Security Operations Center (SOC) procedures and workflows
-- Python for security automation
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/gabriel-orta-cyber](https://linkedin.com/in/gabriel-orta-cyber)
+- **LinkedIn:** [linkedin.com/in/gabriel-orta](https://linkedin.com/in/gabriel-orta)
 - **Email:** ffgabeorta@gmail.com
-- **Location:** Odenton, MD (Open to Maryland/DC area opportunities)
-
----
-
-## 🎓 Education
-
-**Miami Sunset Senior High School** | High School Diploma (1998)
-
----
-
-## 💡 What I'm Looking For
-
-I'm actively seeking entry-level SOC Analyst, Security Analyst, or Junior Cybersecurity Analyst positions where I can:
-- Apply my technical skills in a real-world security operations environment
-- Continue learning and growing in defensive security
-- Contribute to threat detection and incident response efforts
-- Build toward a long-term career in penetration testing
+- **Location:** Anne Arundel County, MD (Open to Maryland/DC area and remote)
 
 ---
 
@@ -128,7 +93,3 @@ I'm actively seeking entry-level SOC Analyst, Security Analyst, or Junior Cybers
 
 - **English** (Native)
 - **Spanish** (Fluent/Bilingual)
-
----
-
-*"From protecting communities as a firefighter to protecting networks as a cybersecurity professional - the mission to serve and protect continues."*
