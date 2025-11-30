@@ -25,7 +25,7 @@ IT support professional with a unique background in emergency response. I bring 
 ## 🛠️ Technical Skills
 
 **Operating Systems:**
-- Linux (Fedora daily driver, Arch/Sway custom setup)
+- Linux (Arch/Sway custom setup as daily driver)
 - Windows 10/11
 - Windows Server 2022 (learning)
 - macOS
@@ -74,7 +74,6 @@ Multi-OS virtualized lab using KVM/QEMU:
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/gabriel-orta](https://linkedin.com/in/gabriel-orta)
-- **Email:** ffgabeorta@gmail.com
 - **Location:** Anne Arundel County, MD (Open to Maryland/DC area and remote)
 
 ---
