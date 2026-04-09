@@ -18,7 +18,7 @@ IT support professional with a unique background in emergency response. I bring 
 - 💻 **Google IT Support Professional Certificate** (2025)
 - 🏆 **Google Cybersecurity Professional Certificate** (2024)
 - 🐧 **Linux Essentials Certification (LPI 010-160)** (2025)
-- 📚 **CompTIA Security+** (In Progress - January 2026)
+- 📚 **CompTIA Security+** (In Progress - May 2026)
 
 ---
 
