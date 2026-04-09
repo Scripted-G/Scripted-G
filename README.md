@@ -28,7 +28,6 @@ IT support professional with a unique background in emergency response. I bring 
 - Linux (Arch/Sway custom setup as daily driver)
 - Windows 10/11
 - Windows Server 2022 (learning)
-- macOS
 
 **IT Support & Administration:**
 - Hardware troubleshooting and PC building
