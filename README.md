@@ -1,7 +1,6 @@
 # Gabriel Orta | Scripted-G
 
-Cybersecurity practitioner focused on offensive security, penetration testing, 
-and hands-on systems work. I build, break, and document everything.
+Cybersecurity candidate focused on offensive security, penetration testing, and hands-on systems work.
 
 Former firefighter and paramedic — five years operating inside incident command 
 structures, assessing threats in real time, and making decisions under pressure. 
