@@ -47,8 +47,8 @@ network reconnaissance assessments, and IoT security analysis.
 Custom Arch Linux environment with Sway window manager — preserved as reference. 
 Nearly two weeks of configuration work, fully documented and replicable.
 
-**[Python Number Guessing Game](https://github.com/Scripted-G/Python-Number-Guessing-Game)**
-Simple Python project deployed live on Streamlit.
+**[Security+ Flashcard Quiz](https://github.com/Scripted-G/security-plus-flashcard-quiz)**
+Command-line flashcard tool built in Python for active recall study of CompTIA Security+ acronyms. Ships with 290+ cards and supports custom flashcard files via command-line argument.
 
 ---
 
