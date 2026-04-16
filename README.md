@@ -64,4 +64,4 @@ Command-line flashcard tool built in Python for active recall study of CompTIA S
 ## 🔗 Connect
 
 - [LinkedIn](https://linkedin.com/in/gabriel-orta)
-- Location: Odenton, MD 
+- Location: DMV Area
