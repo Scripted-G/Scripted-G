@@ -13,13 +13,12 @@ Currently pursuing CompTIA Security+ (May 2026)
 ## 🔧 What I Work With
 
 **Operating Systems**
-- Windows 11 IoT Enterprise LTSC (daily driver, hardened)
+- Debian 13 Trixie (daily driver, hardened)
 - Kali Linux (primary attack platform)
 - Linux — extensive experience across multiple distributions
 
 **Virtualization**
-- VMware Workstation Pro
-- Previous: KVM/QEMU on Arch Linux
+- KVM/QEMU & Virtual Machine Manager on Debian 13 Trixie
 
 **Security Tools**
 - Metasploit Framework
