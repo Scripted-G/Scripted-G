@@ -16,6 +16,7 @@ Currently pursuing CompTIA Security+ (May 2026)
 - Debian 13 Trixie (daily driver, hardened)
 - Kali Linux (primary attack platform)
 - Linux — extensive experience across multiple distributions
+- Windows (Active Directory) via Virtual Machines
 
 **Virtualization**
 - KVM/QEMU & Virtual Machine Manager on Debian 13 Trixie
