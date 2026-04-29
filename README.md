@@ -13,8 +13,7 @@ Currently pursuing CompTIA Security+
 **Operating Systems**
 - Fedora 44 Gnome (daily driver, hardened)
 - Kali Linux (primary attack platform)
-- Linux — extensive experience across multiple distributions
-- Windows (Active Directory) via Virtual Machines
+- Windows Server 2022 & Windows 11 (Active Directory lab via VMs)
 
 **Virtualization**
 - KVM/QEMU & Virtual Machine Manager on Fedora 44
@@ -22,7 +21,6 @@ Currently pursuing CompTIA Security+
 **Security Tools**
 - Metasploit Framework
 - Nmap, Wireshark, Netcat, Burp Suite
-- Metasploitable 2
 
 **Lab Environment**
 - Active Directory lab — Windows Server 2022 DC + Windows 11 Pro client
@@ -31,7 +29,6 @@ Currently pursuing CompTIA Security+
 **Programming & Scripting**
 - Python
 - Bash
-- Git & GitHub
 
 ---
 
@@ -42,8 +39,7 @@ Documented offensive security lab environment. Includes exploitation writeups,
 network reconnaissance assessments, and IoT security analysis.
 
 **[Dotfiles](https://github.com/Scripted-G/dotfiles)**
-Custom Arch Linux environment with Sway window manager — preserved as reference. 
-Nearly two weeks of configuration work, fully documented and replicable.
+Custom Arch Linux environment with Sway window manager. Built from scratch and themed end-to-end. Fully documented and replicable.
 
 **[Security+ Flashcard Quiz](https://github.com/Scripted-G/security-plus-flashcard-quiz)**
 Command-line flashcard tool built in Python for active recall study of CompTIA Security+ acronyms. Ships with 290+ cards and supports custom flashcard files via command-line argument.
@@ -52,10 +48,10 @@ Command-line flashcard tool built in Python for active recall study of CompTIA S
 
 ## 📜 Certifications
 
+- CompTIA Security+ — In progress
 - Google Cybersecurity Professional Certificate (2024)
-- Google IT Support Professional Certificate (2022)
 - Linux Essentials — LPI 010-160 (2025)
-- CompTIA Security+ — In progress, May 2026
+- Google IT Support Professional Certificate (2022)
 
 ---
 
