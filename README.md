@@ -1,12 +1,10 @@
 # Gabriel Orta | Scripted-G
 
-Cybersecurity candidate focused on offensive security, penetration testing, and hands-on systems work.
+Focused on offensive security, Linux systems, and the layer underneath the tools.
 
-Former firefighter and paramedic — five years operating inside incident command 
-structures, assessing threats in real time, and making decisions under pressure. 
-That mindset transferred directly into how I approach security work.
+Former firefighter and paramedic — five years operating inside incident command structures, assessing threats in real time, and making decisions under pressure.
 
-Currently pursuing CompTIA Security+ (May 2026)
+Currently pursuing CompTIA Security+
 
 ---
 
