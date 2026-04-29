@@ -13,13 +13,13 @@ Currently pursuing CompTIA Security+ (May 2026)
 ## 🔧 What I Work With
 
 **Operating Systems**
-- Debian 13 Trixie (daily driver, hardened)
+- Fedora 44 Gnome (daily driver, hardened)
 - Kali Linux (primary attack platform)
 - Linux — extensive experience across multiple distributions
 - Windows (Active Directory) via Virtual Machines
 
 **Virtualization**
-- KVM/QEMU & Virtual Machine Manager on Debian 13 Trixie
+- KVM/QEMU & Virtual Machine Manager on Fedora 44
 
 **Security Tools**
 - Metasploit Framework
