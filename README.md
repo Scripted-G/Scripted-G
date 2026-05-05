@@ -11,12 +11,12 @@ Currently pursuing CompTIA Security+
 ## 🔧 What I Work With
 
 **Operating Systems**
-- Fedora 44 Gnome (daily driver, hardened)
+- Windows 11 iot LTSC (daily driver, hardened)
 - Kali Linux (primary attack platform)
 - Windows Server 2022 & Windows 11 (Active Directory lab via VMs)
 
 **Virtualization**
-- KVM/QEMU & Virtual Machine Manager on Fedora 44
+- VMware workstation Pro
 
 **Security Tools**
 - Metasploit Framework
