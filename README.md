@@ -10,21 +10,21 @@ Currently pursuing CompTIA Security+
 
 ## 🔧 What I Work With
 
-**Operating Systems**
-- Windows 11 iot LTSC (daily driver, hardened)
-- Kali Linux (primary attack platform)
-- Windows Server 2022 & Windows 11 (Active Directory lab via VMs)
-
-**Virtualization**
-- VMware workstation Pro
+**Lab Environment**
+- Active Directory lab — Windows Server 2022 DC + Windows 11 Pro client
+- Isolated offensive lab — Kali Linux + Metasploitable 2
 
 **Security Tools**
 - Metasploit Framework
 - Nmap, Wireshark, Netcat, Burp Suite
 
-**Lab Environment**
-- Active Directory lab — Windows Server 2022 DC + Windows 11 Pro client
-- Isolated offensive lab — Kali Linux + Metasploitable 2
+**Operating Systems**
+- Windows 11 IoT LTSC (daily driver, hardened)
+- Kali Linux (primary attack platform)
+- Windows Server 2022 & Windows 11 (Active Directory lab via VMs)
+
+**Virtualization**
+- VMware Workstation Pro
 
 **Programming & Scripting**
 - Python
