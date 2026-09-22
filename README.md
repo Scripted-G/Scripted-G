@@ -26,7 +26,7 @@ Currently pursuing CompTIA Security+ while continuing to build and document prac
 - Intentionally vulnerable lab environments
 - Active Directory lab development
 
-**Programming & Automation**
+**Programming, Scripting & Version Control**
 - Python
 - Bash
 - Git and GitHub
@@ -66,4 +66,4 @@ A preserved Arch Linux + Sway workstation configuration previously used as a dai
 ## 🔗 Connect
 
 - [LinkedIn](https://linkedin.com/in/gabriel-orta)
-- DMV Area
+- Location: DMV Area
