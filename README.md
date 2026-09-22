@@ -1,6 +1,6 @@
 # Gabriel Orta | Scripted-G
 
-Building hands-on experience across Linux systems, virtualization, networking, automation, and cybersecurity.
+Building hands-on experience across Linux systems, virtualization, networking, scripting, and cybersecurity.
 
 Currently pursuing CompTIA Security+ while continuing to build and document practical IT and systems projects.
 
