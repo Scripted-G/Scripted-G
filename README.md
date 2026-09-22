@@ -1,56 +1,64 @@
 # Gabriel Orta | Scripted-G
 
-Focused on offensive security, Linux systems, and the layer underneath the tools.
+Building hands-on experience across Linux systems, virtualization, networking, automation, and cybersecurity.
 
-Former firefighter and paramedic — five years operating inside incident command structures, assessing threats in real time, and making decisions under pressure.
-
-Currently pursuing CompTIA Security+
+Currently pursuing CompTIA Security+ while continuing to build and document practical IT and systems projects.
 
 ---
 
 ## 🔧 What I Work With
 
-**Lab Environment**
-- Active Directory lab — Windows Server 2022 DC + Windows 11 Pro client
-- Isolated offensive lab — Kali Linux + Metasploitable 2
+**Linux & Systems**
+- Ubuntu 26.04 LTS
+- Bash scripting and system configuration
+- Package management and desktop administration
+- Docker-based services
 
-**Security Tools**
-- Metasploit Framework
-- Nmap, Wireshark, Netcat, Burp Suite
+**Virtualization & Homelab**
+- QEMU/KVM
+- libvirt + virt-manager
+- Windows Server 2022 and Windows 11 Pro
+- Kali Linux and Metasploitable 2
 
-**Operating Systems**
-- Windows 11 IoT LTSC (daily driver, hardened)
-- Kali Linux (primary attack platform)
-- Windows Server 2022 & Windows 11 (Active Directory lab via VMs)
+**Networking & Security**
+- Network reconnaissance and traffic analysis
+- Nmap, Wireshark, Netcat, Burp Suite, and Metasploit
+- Intentionally vulnerable lab environments
+- Active Directory lab development
 
-**Virtualization**
-- VMware Workstation Pro
-
-**Programming & Scripting**
+**Programming & Automation**
 - Python
 - Bash
+- Git and GitHub
+
+**Local AI**
+- Ollama
+- Open WebUI
+- Local model hosting and GPU-accelerated inference
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-**[Homelab](https://github.com/Scripted-G/homelab)**
-Documented offensive security lab environment. Includes exploitation writeups, 
-network reconnaissance assessments, and IoT security analysis.
+### [Homelab](https://github.com/Scripted-G/homelab)
 
-**[Dotfiles](https://github.com/Scripted-G/dotfiles)**
-Custom Arch Linux environment with Sway window manager. Built from scratch and themed end-to-end. Fully documented and replicable.
+An evolving virtualization and systems lab built on Ubuntu using QEMU/KVM and libvirt. Includes Windows and Linux virtual machines, security testing environments, network assessment writeups, local AI infrastructure, and planned Active Directory and network-segmentation work.
 
-**[Security+ Flashcard Quiz](https://github.com/Scripted-G/security-plus-flashcard-quiz)**
-Command-line flashcard tool built in Python for active recall study of CompTIA Security+ acronyms. Ships with 290+ cards and supports custom flashcard files via command-line argument.
+### [Ubuntu Snap Removal](https://github.com/Scripted-G/ubuntu-snap-removal)
+
+A Bash utility for Ubuntu 26.04 LTS Classic installations that removes installed Snap packages, purges `snapd`, prevents APT from selecting it for reinstallation, and verifies the resulting system state.
+
+### [Dotfiles](https://github.com/Scripted-G/dotfiles)
+
+A preserved Arch Linux + Sway workstation configuration previously used as a daily driver. Documents shell configuration, Wayland desktop customization, BTRFS/Snapper snapshots, GRUB integration, libvirt, firewall configuration, and reproducible package setup.
 
 ---
 
 ## 📜 Certifications
 
 - CompTIA Security+ — In progress
-- Google Cybersecurity Professional Certificate (2024)
 - Linux Essentials — LPI 010-160 (2025)
+- Google Cybersecurity Professional Certificate (2024)
 - Google IT Support Professional Certificate (2022)
 
 ---
@@ -58,4 +66,4 @@ Command-line flashcard tool built in Python for active recall study of CompTIA S
 ## 🔗 Connect
 
 - [LinkedIn](https://linkedin.com/in/gabriel-orta)
-- Location: DMV Area
+- DMV Area
