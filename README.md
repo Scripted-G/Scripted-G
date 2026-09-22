@@ -21,8 +21,8 @@ Currently pursuing CompTIA Security+ while continuing to build and document prac
 - Kali Linux and Metasploitable 2
 
 **Networking & Security**
-- Network reconnaissance and traffic analysis
-- Nmap, Wireshark, Netcat, Burp Suite, and Metasploit
+- Networking fundamentals and lab-based traffic analysis
+- Nmap and Wireshark
 - Intentionally vulnerable lab environments
 - Active Directory lab development
 
