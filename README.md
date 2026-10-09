@@ -1,6 +1,7 @@
+[profile_README.md](https://github.com/user-attachments/files/33265322/profile_README.md)
 # Gabriel Orta | Scripted-G
 
-Building hands-on experience across Linux systems, virtualization, networking, scripting, and cybersecurity.
+Building hands-on experience across Windows and Linux systems, virtualization, networking, scripting, and cybersecurity.
 
 Currently pursuing CompTIA Security+ while continuing to build and document practical IT and systems projects.
 
@@ -9,22 +10,21 @@ Currently pursuing CompTIA Security+ while continuing to build and document prac
 ## 🔧 What I Work With
 
 **Linux & Systems**
-- Ubuntu 26.04 LTS
+- Linux (Ubuntu, Debian, Fedora, Arch)
 - Bash scripting and system configuration
 - Package management and desktop administration
-- Docker-based services
 
 **Virtualization & Homelab**
-- QEMU/KVM
-- libvirt + virt-manager
+- VMware Workstation Pro on a Windows 11 Pro host
 - Windows Server 2022 and Windows 11 Pro
 - Kali Linux and Metasploitable 2
+- QEMU/KVM and libvirt (previous lab setup)
 
 **Networking & Security**
 - Networking fundamentals and lab-based traffic analysis
 - Nmap and Wireshark
 - Intentionally vulnerable lab environments
-- Active Directory lab development
+- Active Directory lab (planned)
 
 **Programming, Scripting & Version Control**
 - Python
@@ -32,9 +32,7 @@ Currently pursuing CompTIA Security+ while continuing to build and document prac
 - Git and GitHub
 
 **Local AI**
-- Ollama
-- Open WebUI
-- Local model hosting and GPU-accelerated inference
+- LM Studio and local model hosting
 
 ---
 
@@ -42,28 +40,4 @@ Currently pursuing CompTIA Security+ while continuing to build and document prac
 
 ### [Homelab](https://github.com/Scripted-G/homelab)
 
-An evolving virtualization and systems lab built on Ubuntu using QEMU/KVM and libvirt. Includes Windows and Linux virtual machines, security testing environments, network assessment writeups, local AI infrastructure, and planned Active Directory and network-segmentation work.
-
-### [Ubuntu Snap Removal](https://github.com/Scripted-G/ubuntu-snap-removal)
-
-A Bash utility for Ubuntu 26.04 LTS Classic installations that removes installed Snap packages, purges `snapd`, prevents APT from selecting it for reinstallation, and verifies the resulting system state.
-
-### [Dotfiles](https://github.com/Scripted-G/dotfiles)
-
-A preserved Arch Linux + Sway workstation configuration previously used as a daily driver. Documents shell configuration, Wayland desktop customization, BTRFS/Snapper snapshots, GRUB integration, libvirt, firewall configuration, and reproducible package setup.
-
----
-
-## 📜 Certifications
-
-- CompTIA Security+ — In progress
-- Linux Essentials — LPI 010-160 (2025)
-- Google Cybersecurity Professional Certificate (2024)
-- Google IT Support Professional Certificate (2022)
-
----
-
-## 🔗 Connect
-
-- [LinkedIn](https://linkedin.com/in/gabriel-orta)
-- Location: DMV Area
+An evolving virtualization and systems lab built on a Windows 11 Pro host using VMware Workstation Pro. Includes Windows and Linux virtual machines, security testing environments, network assessment writeups, and planned Active Directory and network-segmentation work. Earlier versions of the lab ran on Ubuntu with QEMU/KVM and libvirt.
