@@ -18,7 +18,6 @@ Currently pursuing CompTIA Security+ while continuing to build and document prac
 - VMware Workstation Pro on a Windows 11 Pro host
 - Windows Server 2022 and Windows 11 Pro
 - Kali Linux and Metasploitable 2
-- QEMU/KVM and libvirt (previous lab setup)
 
 **Networking & Security**
 - Networking fundamentals and lab-based traffic analysis
